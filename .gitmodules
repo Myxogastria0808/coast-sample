@@ -1,0 +1,3 @@
+[submodule "docs/themes/coast"]
+	path = docs/themes/coast
+	url = https://github.com/Myxogastria0808/coast.git
