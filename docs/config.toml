@@ -79,8 +79,6 @@ taxonomies = "off"
 paths_keep_dates = true
 
 [extra.coast]
-title = "coast blog"
-description = "The coast is beautiful."
 keyword = "blog coast sea"
 
 about = """
