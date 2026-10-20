@@ -18,4 +18,4 @@ My name is Myxogastria0808, and I like the sea too!
 
 I create a logo for my blog theme named "coast".
 
-{{ image(path="/content/coast/coast.png") }}
+{{ <image path="/content/coast/coast.png" /> }}
